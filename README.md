@@ -47,6 +47,31 @@ Three types of graphs can be generated:
 1. Bar Chart – Category-wise expenses
 2. Pie Chart – Expense distribution
 3. Line Graph – Daily expense trend
+## 📸 Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main_menu.png)
+
+### Monthly Analysis
+
+![Monthly Analysis](screenshots/analysis.png)
+
+### Bar Graph
+
+![Bar Graph](screenshots/bar_graph.png)
+
+### Pie Graph
+
+![Pie Graph](screenshots/pie_graph.png)
+
+### Daily Expense Trend
+
+![Daily Expense Trend](screenshots/line_graph.png)
+
+### PDF Report
+
+![PDF Report](screenshots/pdf_report.png)
 
 ## 📄 PDF Report
 
